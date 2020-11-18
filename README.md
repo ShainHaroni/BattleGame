@@ -2,7 +2,7 @@
 
 #### Main Features:
 * Battle Game with Python.
-* RPG SCRIPT for HP/MP and more..
+* RPG script for HP/MP and more..
 * Enemy can attack you be careful.
 * Just play and enjoy
 
