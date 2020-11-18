@@ -12,5 +12,5 @@
 ![alt text](https://github.com/ShainHaroni/BattleGame/blob/main/screenshots/2.png)
 ![alt text](https://github.com/ShainHaroni/BattleGame/blob/main/screenshots/3.png)
 
-video: https://youtube.com/embed/w3jLJU7DT5E
+
 
