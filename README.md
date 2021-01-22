@@ -1,7 +1,7 @@
 # BattleGame
 
 #### Main Features:
-* Battle Game with Python.
+* Battle Game written in Python.
 * RPG script for HP/MP and more..
 * Enemy can attack you be careful.
 * Just play and enjoy
